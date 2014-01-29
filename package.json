@@ -1,0 +1,8 @@
+{
+    "name":"node-angular-starter",
+    "main":"server.js",
+    "dependencies":{
+        "express":"latest",
+        "mongoose":"latest"
+    }
+}
